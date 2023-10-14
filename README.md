@@ -3,8 +3,8 @@ This is a Online Food Ordering App
 <br>
 Author - Priyotam 
 
-# Structure
-# Namaste Food
+Structure
+Namaste Food
 
 /**
  * Header 
